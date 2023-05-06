@@ -11,15 +11,7 @@ Ideias essas que nem sempre estarão finalizadas ou concluídas e abertas a disc
 
 ## Sobre
 
-<div style="display: flex; justify-content: center; align-items: center">
-    <p style="width: 50%">
-    Este é o repositório do meu jardim digital. Aqui você encontrará uma coleção de notas sobre os mais diversos assuntos, desde programação até filosofia! A ideia é que este repositório seja um espaço para eu organizar e compartilhar meus pensamentos e aprendizados.
-    </p>
-    <div style="display: flex; flex-direction: column; width: 50%; justify-content: center; align-items: center">
-        <img src="https://avatars.githubusercontent.com/reislucaz" width="200px" height="200px" style="border-radius: 50%"/>
-        <p style="margin-top: 10px">Lucas Reis</p>
-    </div>
-</div>
+Este é o repositório do meu jardim digital. Aqui você encontrará uma coleção de notas sobre os mais diversos assuntos, desde programação até filosofia! A ideia é que este repositório seja um espaço para eu organizar e compartilhar meus pensamentos e aprendizados.
 
 ## Como navegar?
 
